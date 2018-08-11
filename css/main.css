@@ -1201,7 +1201,7 @@ pre .javascript .function {
 }
 .menu .menu-item a {
   display: block;
-  font-size: 20px;
+  font-size: 18px;
   line-height: inherit;
   border-bottom: 1px solid transparent;
   transition-property: border-color;
@@ -1703,8 +1703,8 @@ pre .javascript .function {
   position: fixed;
   right: 30px;
   bottom: 45px;
-  width: 14px;
-  height: 14px;
+  width: 20px;
+  height: 20px;
   padding: 5px;
   background: #222;
   line-height: 0;
@@ -1742,9 +1742,9 @@ pre .javascript .function {
   height: auto;
   border: 2px solid #333;
 /* 头像圆形 */
-  border-radius: 80px;
-  -webkit-border-radius: 80px;
-  -moz-border-radius: 80px;
+  border-radius: 120px;
+  -webkit-border-radius: 120px;
+  -moz-border-radius: 120px;
   box-shadow: inset 0 -1px 0 #333 sf;
 /* 设置循环动画 [animation: (play)动画名称 (2s)动画播放时长单位秒或微秒 (ase-out)动画播放的速度曲线为以低速结束 
     (1s)等待1秒然后开始动画 (1)动画播放次数(infinite为循环播放) ]*/
@@ -1886,7 +1886,7 @@ img:hover {
 }
 .feed-link a i {
   color: #fc6423;
-  font-size: 20px;
+  font-size: 16px;
 }
 .feed-link a:hover {
   color: #fff;
@@ -1904,7 +1904,7 @@ img:hover {
   margin-right: 10px;
   margin-bottom: 10px;
   border-bottom-color: #555;
-  font-size: 20px;
+  font-size: 16px;
 }
 .links-of-author a:before {
   display: inline-block;
@@ -1914,14 +1914,14 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #42ffff;
+  background: #18b652;
 }
 .links-of-blogroll {
-  font-size: 13px;
+  font-size: 18px;
 }
 .links-of-blogroll-title {
   margin-top: 20px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 600;
 }
 .links-of-blogroll-list {
