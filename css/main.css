@@ -1914,7 +1914,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #dbfff0;
+  background: #2f8a26;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2751,4 +2751,7 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+.site-meta {
+  background: #0684bd;
 }
